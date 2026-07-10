@@ -16,6 +16,6 @@
 <div align="center">
 <br>
 <p>contact me on:</p>
-telegram (https://t.me/nccube)
+<a href="https://t.me/nccube" target="_blank">Telegram</a>
 <br>
 <a href="https://discord.gg/CwKfkJ8C" target="_blank">Discord</a>
