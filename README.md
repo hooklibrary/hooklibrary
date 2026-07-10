@@ -12,6 +12,8 @@
     &nbsp;
     <img src="https://img.shields.io/badge/assembly-007396?style=for-the-badge&logo=assembly&logoColor=white" alt="C#" />
 </div>
+
+<div align="center">
 <br>
 <p>contact me on:</p>
 telegram (https://t.me/nccube)
