@@ -17,5 +17,4 @@
 <br>
 <p>Contact me on: </p>
 <a href="https://t.me/nccube" target="_blank">Telegram</a>
-<br>
 <a href="https://discord.gg/CwKfkJ8C" target="_blank">Discord</a>
