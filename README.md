@@ -1,9 +1,4 @@
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+nc;This+is..;..my+Github..;..Currently+Working+on+Celestial.pw..;" alt="Typing SVG"/>
-    </h1>
-</div>
-<div align="center">
     <h2>about me</h2>
     <p>I'm nc specializing in c++ for 4 years. I enjoy reversing, gamehacking and overall coding.</p>
 </div>
