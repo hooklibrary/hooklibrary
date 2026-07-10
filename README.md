@@ -15,4 +15,5 @@
 <br>
 <p>contact me on:</p>
 telegram (https://t.me/nccube)
+<br>
 discord (https://discord.gg/CwKfkJ8C)
