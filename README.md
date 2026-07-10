@@ -15,7 +15,7 @@
 
 <div align="center">
 <br>
-<p>contact me on:</p>
+<p>Contact me on: </p>
 <a href="https://t.me/nccube" target="_blank">Telegram</a>
 <br>
-<a href="https://discord.gg/CwKfkJ8C" target="_blank">Discord</a>
+<a href="https://discord.gg/CwKfkJ8C" target="_blank">https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white</a>
