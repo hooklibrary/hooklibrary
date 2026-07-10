@@ -18,4 +18,4 @@
 <p>contact me on:</p>
 telegram (https://t.me/nccube)
 <br>
-discord (https://discord.gg/CwKfkJ8C)
+<a href="https://discord.gg/CwKfkJ8C" target="_blank">Discord</a>
