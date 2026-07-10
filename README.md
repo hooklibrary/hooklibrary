@@ -6,7 +6,7 @@
     <br>
     <p>all coding languages i know, bit of assembly too but not really</p>
     <br>
-    <img src="https://img.shields.io/badge/Cpp-007396?style=for-the-badge&logo=c++&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=c++&logoColor=white" alt="C++" />
     &nbsp;
     <img src="https://img.shields.io/badge/Csharp-007396?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
     &nbsp;
