@@ -10,7 +10,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Csharp-007396?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
     &nbsp;
-    <img src="https://img.shields.io/badge/assembly-007396?style=for-the-badge&logo=assembly&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/assembly-007396?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
 </div>
 
 <div align="center">
