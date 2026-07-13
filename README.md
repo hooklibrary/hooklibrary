@@ -4,7 +4,7 @@
     <p> i have more private repositories than actual good code.</p>
     <p>currently working on some stuff. i don't have always time to actually manage 6 projects at one hand so</p>
     <br>
-    <p>all coding languages i know, bit of assembly too but not really</p>
+    <p>all coding languages i know, bit of assembly too but not really + for the reversing im a bit new so yeah but overall i do sometimes need help</p>
     <br>
     <img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=c++&logoColor=white" alt="C++" />
     &nbsp;
